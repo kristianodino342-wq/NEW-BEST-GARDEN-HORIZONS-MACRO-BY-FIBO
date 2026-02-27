@@ -14,7 +14,9 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
 ## Instalasi (Mudah Banget!)
 1. **Tidak perlu autohotkey karena sudah di compile jadi .exe tinggal jalanin** 
 
-2. **Download macro ini**
+2. **Download macro ini**  
+   - Klik tombol hijau **Code** → **Download ZIP**  
+   - Atau langsung download file .exe nya👌
 
 -> https://bit.ly/4aVAvJJ
 

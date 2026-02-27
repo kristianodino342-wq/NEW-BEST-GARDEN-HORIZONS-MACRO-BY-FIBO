@@ -38,7 +38,7 @@ Penulis tidak bertanggung jawab atas akun yang hilang.
 
 ## Kontribusi
 Mau bantu improve macro?  
-- Report bug di **Youtube FIBO FF** tab  
+- Report bug di **Youtube FIBO FF**  
 - Pull request kalau punya saran atau fix bug  
 - Star repo ini kalau berguna! ⭐
 

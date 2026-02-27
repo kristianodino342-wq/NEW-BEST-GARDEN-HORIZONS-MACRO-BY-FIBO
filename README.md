@@ -10,8 +10,7 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
 - Mudah di-custom sesuai hotbar & ringan ukuran file kecil
 
 ## Instalasi (Mudah Banget!)
-1. **Download AutoHotkey v1.1** (jangan v2.0, karena belum kompatibel)  
-   → https://www.autohotkey.com/ (pilih Download → v1.1)
+1. **Tidak perlu autohotkey karena sudah di compile jadi .exe tinggal jalanin** 
 
 2. **Download macro ini**
 

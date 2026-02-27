@@ -9,6 +9,8 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
 - Auto buy seeds dan gear
 - Mudah di-custom sesuai hotbar & ringan ukuran file kecil
 
+
+
 ## Instalasi (Mudah Banget!)
 1. **Tidak perlu autohotkey karena sudah di compile jadi .exe tinggal jalanin** 
 
@@ -28,6 +30,8 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
 
 ## Cara Pakai Efektif
 - Disarankan pakai popup mode jangan fullscreen
+- ui navigation toggle ON
+- layar menghadap bawah
 - Jangan gerakkan mouse/keyboard saat macro jalan
 - Kalau lag, turunkan ke mode slow
 

@@ -24,7 +24,7 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
    - Macro akan start otomatis
 
 6. **file tidak open source**  
-   - untuk mengamankan hak cipta dan menghindari penyalah gunaan file saya untuk penyelipan virus, saya compile macro dari .ahk ke .exe
+   - untuk mengamankan hak cipta, saya compile macro dari .ahk ke .exe
 
 ## Cara Pakai Efektif
 - Disarankan pakai popup mode jangan fullscreen

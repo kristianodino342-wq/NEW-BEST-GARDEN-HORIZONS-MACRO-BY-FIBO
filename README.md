@@ -19,7 +19,6 @@ AFK farming tanpa ribet: auto buy seeds/gear dari shop dan farming shillings jut
    - Bisa langsung download file .exe nya👌
    - Atau di [Release](https://github.com/kristianodino342-wq/NEW-BEST-GARDEN-HORIZONS-MACRO-BY-FIBO/releases)
 
--> https://bit.ly/4aVAvJJ
 
 4. setelah selesai
 
